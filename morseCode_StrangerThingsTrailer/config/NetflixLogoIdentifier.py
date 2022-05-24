@@ -33,7 +33,7 @@ def mouseClick(events,x,y,flags,params):
     
 while True:
     #lendo o frame printado do vídeo utilizada para treino
-    img = cv2.imread('assets/StrangerThings_Moment.jpg')
+    img = cv2.imread('../assets/StrangerThings_Moment.jpg')
 
     #retorna todos os retangulos na imagem, posição, tamanho e cor
     for pos in posList:
