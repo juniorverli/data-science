@@ -9,7 +9,7 @@ width, height = 150, 60
 posList = []
 
 try:
-    with open('NetflixLogoPos', 'wb') as f:
+    with open('NetflixLogoPos', 'rb') as f:
         posList = pickle.load(f)
 
 except:
