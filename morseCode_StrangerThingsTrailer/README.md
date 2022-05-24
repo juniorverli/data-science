@@ -15,10 +15,10 @@ Esse projeto foi criado para detectar a mensagem de código morse disponibilizad
 ## Como executar
 É necessário realizar o download dos arquivos contidos nesse repositório, ter o Python em seu computador e instalar as bibliotecas especificadas anteriormente. Após baixada extraia o .zip e execute os códigos dentro da pasta
 
-- Para gravar a posição do logo da Netflix execute o comando
+- Para gravar a posição do logo da Netflix execute o comando\n
 python config\NetflixLogoIdentifier.py
 
-- Para executar o decodificador execute o comando
+- Para executar o decodificador execute o comando\n
 python main.py
 
 ## Demo
