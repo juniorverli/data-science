@@ -6,7 +6,7 @@ Esse projeto foi criado para detectar a mensagem de código morse disponibilizad
   <img src="https://github.com/juniorverli/deeplearning/blob/main/assets/morseCode_StrangerThingsTrailer.gif" width="601" height="342">
 </p>
 
-#Bibliotecas utilizadas
+# Bibliotecas utilizadas
 - OpenCV
 - Numpy
 - Pickle
