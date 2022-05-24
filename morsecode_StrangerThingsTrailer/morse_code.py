@@ -1,3 +1,5 @@
+#Alfabeto Morse
+
 alphaToMorse = {'a': ".-", 'b': "-...", 'c': "-.-.", 'd': "-..", 'e': ".",
                 'f': "..-.", 'g': "--.", 'h': "....", 'i': "..", 'j': ".---", 'k': "-.-",
                 'l': ".-..", 'm': "--", 'n': "-.", 'o': "---", 'p': ".--.", 'q': "--.-",
@@ -11,6 +13,7 @@ alphaToMorse = {'a': ".-", 'b': "-...", 'c': "-.-.", 'd': "-..", 'e': ".",
                 
 MORSE_REVERSED = {value:key for key,value in alphaToMorse.items()}
 
+#decodificando morse
 def from_morse(s):
     result = ""
     for i in s.split("/"):
