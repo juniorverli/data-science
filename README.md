@@ -1,5 +1,5 @@
 ## Deep Learning
 
-### - Visão Computacional
+### Visão Computacional
 
 [morseCode_StrangerThingsTrailer](https://github.com/juniorverli/deeplearning/tree/main/morsecode_StrangerThingsTrailer)
