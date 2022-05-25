@@ -4,4 +4,4 @@ Nessa seção encontra-se diferentes algoritmos de Deep Learning utilizando dive
 
 ### Algoritmos utilizando Visão Computacional:
 
-- [morseCode_StrangerThingsTrailer](https://github.com/juniorverli/deeplearning/tree/main/morseCode_StrangerThingsTrailer)
+- [morseCode_StrangerThingsTrailer](https://github.com/juniorverli/deeplearning/tree/main/deeplearning/morseCode_StrangerThingsTrailer)
