@@ -3,7 +3,7 @@
 Esse projeto foi criado para detectar a mensagem de código morse disponibilizada durante um dos trailers da temporada 4 de <b>Stranger Things</b>. O script em Python realiza uma técnica de <b>visão computacional</b> em cima do logo da <b>Netflix</b>, detectando quando o mesmo some e reaparece.
 
 <p align="left">
-  <img src="https://github.com/juniorverli/deeplearning/blob/main/assets/morseCode_StrangerThingsTrailer.gif" width="601" height="342">
+  <img src="https://github.com/juniorverli/machinelearning/blob/main/assets/morseCode_StrangerThingsTrailer.gif" width="601" height="342">
 </p>
 
 # Bibliotecas utilizadas

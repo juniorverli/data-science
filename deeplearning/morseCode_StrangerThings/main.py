@@ -62,7 +62,7 @@ while True:
     if cap.get(cv2.CAP_PROP_POS_FRAMES) == cap.get(cv2.CAP_PROP_FRAME_COUNT):
         cap.set(cv2.CAP_PROP_POS_FRAMES,0)
     #tempo de espera antes de executar o próximo passo
-    cv2.waitKey(10)
+    #cv2.waitKey(23)
     #lendo o vídeo utilizado para decodificação do código morse
     success, img = cap.read()
     #sequencia de imagens criadas para chegar na imagem dilatada
@@ -138,11 +138,12 @@ while True:
         #retorna na imagem o código morse, o retangulo da área do logo
         #e a mensagem decodificada
         cv2.putText(img, "Codigo Morse: {}".format(morse_char), (10, 30),
-			cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
+			cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)
         cv2.putText(img, "NetflixLogo: {:.2f}".format(checkNetflixLogo(imgDilate)), (600, 30),
-			cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
+			cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)
         cv2.putText(img, "Mensagem: {}".format(morse_code.from_morse(total_morse)), (10,100), 
 			cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
+    
         
     #mostrando a imagem
     cv2.imshow('Image', img)
