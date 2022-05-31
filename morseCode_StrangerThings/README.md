@@ -23,4 +23,4 @@ Esse projeto foi criado para detectar a mensagem de código morse disponibilizad
 
 ## Demo
 
-[!(http://img.youtube.com/vi/HtsE81AixrQ/0.jpg)](https://www.youtube.com/watch?v=HtsE81AixrQ)
+[![IMAGE](http://img.youtube.com/vi/HtsE81AixrQ/0.jpg)](https://www.youtube.com/watch?v=HtsE81AixrQ)
