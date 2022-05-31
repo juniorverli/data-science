@@ -23,4 +23,4 @@ Esse projeto foi criado para detectar a mensagem de código morse disponibilizad
 
 ## Demo
 
-<img src="https://github.com/juniorverli/data-science/blob/main/assets/StrangerThingsThumbnail.jpg" width="601" height="342">(https://www.youtube.com/watch?v=HtsE81AixrQ)
+[!<img src="https://github.com/juniorverli/data-science/blob/main/assets/StrangerThingsThumbnail.jpg" width="601" height="342">](https://www.youtube.com/watch?v=HtsE81AixrQ)
