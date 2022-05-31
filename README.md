@@ -1,7 +1,11 @@
-## Deep Learning
+## Data Science
 
-Nessa seção encontra-se diferentes algoritmos de Deep Learning utilizando diversas técnicas como transcrição de aúdio, reconhecimento de fala, visão computacional, etc.
+Nessa seção você encontra os <i>notebooks</i> e scripts para serem abertos no VSCode dos meus projetos na área de Data Science, Machine Learning e Deep Learning
 
-### Algoritmos utilizando Visão Computacional:
+### Projetos
+Lista de projetos em Jupyter Notebook (Python):
 
-- [morseCode_StrangerThingsTrailer](https://github.com/juniorverli/machinelearning/tree/main/morseCode_StrangerThings)
+
+Lista de projetos feitos no VSCode (Python):
+
+- [Decifrando código morse do trailer de Stranger Things](https://github.com/juniorverli/data-science/tree/main/morseCode_StrangerThings)
