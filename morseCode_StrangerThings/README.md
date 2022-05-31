@@ -5,7 +5,6 @@ Esse projeto foi criado para detectar a mensagem de código morse disponibilizad
 <p align="left">
   <img src="https://github.com/juniorverli/machinelearning/blob/main/assets/morseCode_StrangerThingsTrailer.gif" width="601" height="342">
 </p>
-Frase a ser retornada: "SOS NERDS DO BRASIL O BAGULHO TÁ SINISTRO PRECISAMOS DE AJU"
 
 # Bibliotecas utilizadas
 - OpenCV
