@@ -2,7 +2,7 @@
 
 Nessa seção você encontra os <i>notebooks</i> e scripts para serem abertos no VSCode dos meus projetos na área de Data Science, Machine Learning e Deep Learning
 
-### Projetos
+## Projetos
 Lista de projetos em Jupyter Notebook (Python):
 
 
