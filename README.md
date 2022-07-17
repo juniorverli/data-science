@@ -4,6 +4,7 @@ Nessa seção você encontra os <i>notebooks</i> e <i>scripts</i> dos meus proje
 
 ## Projetos
 Lista de projetos em Jupyter Notebook (Python):
+- [Previsão de Vendas Através da Análise de Séries Temporais](https://github.com/juniorverli/data-science/blob/main/Previs%C3%A3o_de_Vendas_Atrav%C3%A9s_da_An%C3%A1lise_de_S%C3%A9ries_Temporais.ipynb)
 
 
 Lista de projetos feitos no VSCode (Python):
