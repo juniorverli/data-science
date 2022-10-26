@@ -4,9 +4,9 @@ Nessa seção você encontra os <i>notebooks</i> e <i>scripts</i> dos meus proje
 
 ## Projetos
 Lista de projetos em Jupyter Notebook (Python):
-- [Previsão de Vendas Através da Análise de Séries Temporais](https://github.com/juniorverli/data-science/blob/main/Previs%C3%A3o_de_Vendas_Atrav%C3%A9s_da_An%C3%A1lise_de_S%C3%A9ries_Temporais.ipynb)
+- [Coletando dados da API do site do Pokémon com PySpark](https://github.com/juniorverli/data-engineer/blob/main/Coletando%20dados%20da%20API%20do%20site%20do%20Pok%C3%A9mon%20com%20PySpark.ipynb)
 
 
 Lista de projetos feitos no VSCode (Python):
 
-- [Decifrando código morse do trailer de Stranger Things](https://github.com/juniorverli/data-science/tree/main/morseCode_StrangerThings)
+- [Processando API Marvel com PySpark e Docker](https://github.com/juniorverli/data-engineer/tree/main/Processando%20API%20Marvel%20com%20PySpark%20e%20Docker)
